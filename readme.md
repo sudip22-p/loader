@@ -1,4 +1,4 @@
-[Loader](https://sudip22-p.github.io/loader/){target="_blank"}
-
-[Source](https://loading.io/css/){target="_blank"}
-
+<h2>
+<a href="https://sudip22-p.github.io/loader/">Loader</a></br>
+<a href="https://loading.io/css/"">Source</a>
+</h2>
